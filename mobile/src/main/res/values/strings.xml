@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWear PS</string>
+    <string name="add">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">My Analog</string>
+</resources>
